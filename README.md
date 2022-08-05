@@ -1,2 +1,2 @@
-# exy-c
+# Exy C
 Exy C programming language.
